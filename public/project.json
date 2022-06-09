@@ -1,0 +1,48 @@
+[
+    {
+      
+      "picture": "https://i.ibb.co/vVZmf5t/tools-Full.jpg",
+      "heading": "TOOLS HOUSE",
+      "subtitle":"Manufacturing Tools Supplier",
+      "live":"https://tools-house.web.app/",
+      "detail":"Home page with interactive hero section and product section, combo offer section, high-performing business summary, and a high-volume customer review. Create a complex admin system, admin can be distributed admin access with other well-tested users. This website has some other maintainable features are added products and management. inventory, product updates, and deleting.",
+      "technology":"HTML, Tailwind Css, React.js, Node.js, Express.js, MongoDB, Firebase,Heroku, React Query"
+    },
+    {
+      
+      "picture": "https://i.ibb.co/1ZGJwwc/f2c.jpg",
+      "heading": "F2C STORE",
+      "subtitle":"Grocery Supplier",
+      "live":"https://f2c-store-auth.web.app/",
+      "detail":"F2C has a home component, users can register by clicking the join now button. There has a managed inventory page, add item page has product add facilities, and my item page contains all cart items. This website has a maintainable login system. Users can log in by email and password or direct log in by Gmail.",
+      "technology":"HTML, Tailwind Css, React.js, Node.js, Express.js, MongoDB, Firebase,Heroku, React Query"
+    },
+    {
+      
+      "picture": "https://i.ibb.co/5vrF2p8/sailing.jpg",
+      "heading": "SAILING NOW",
+      "subtitle":"Boat Sailing Championship",
+      "live":"https://sailing-now.web.app/",
+      "detail":"Single landing page, there has a news route to publish moment news Users can see all open events and can book a seat. The dashboard is privet, it contains some routes analysis, my booking, creating events, uploading images, managing user, and about us.",
+      "technology":"HTML, CSS, Tailwind Css, React.js, Node.js, Express.js, Mongodb,Firebase,Heroku"
+    },
+    {
+      
+      "picture": "https://i.ibb.co/X4KsBRq/snow.jpg",
+      "heading": "SNOW FUN",
+      "subtitle":"ENJOY YOUR WINTER",
+      "live":"https://snow-fun.netlify.app/",
+      "detail":"This website is skateboard-related. Winter season you can enjoy skating. This is only a front-end design. There has a home page that includes a hero section, customer review, and footer.There has a dashboard and a blog route and an about the route",
+      "technology":"HTML, CSS, Bootstrap-5, React.js,"
+    },
+    {
+      
+      "picture": "https://i.ibb.co/p1KSm6n/career.jpg",
+      "heading": "Mr.Career",
+      "subtitle":"Build you Career",
+      "live":"https://mr-career.web.app/",
+      "detail":"This website is career build-up agency-related. There is a service section, and satisfied customer reviews.There also has clients and blogs route.",
+      "technology":"HTML, CSS, Bootstrap-5, React.js,"
+    }
+   
+  ]
